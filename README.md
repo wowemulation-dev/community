@@ -3,6 +3,12 @@
 Hey there, friend! 👋 Welcome to our cozy corner of the internet where we chat
 about all things WoW emulation!
 
+<div align="center">
+
+![TOO SOON](assets/chibi-ragnaros-meetup.jpeg)
+
+</div>
+
 ## 🌟 What We're All About
 
 We're a community dedicated to preserving the magic of World of Warcraft versions
