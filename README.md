@@ -4,7 +4,7 @@ Community discussions for World of Warcraft emulation projects.
 
 <div align="center">
 
-![TOO SOON](assets/chibi-ragnaros-meetup.jpeg)
+![TOO SOON](assets/chibi-ragnaros-meetup.jpeg "Chibi Ragnaros surrounded by friends")
 
 </div>
 
