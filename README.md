@@ -16,7 +16,7 @@ education, and preservation purposes.
 
 Founded in August 2023.
 
-Join our [Discord](https://discord.gg/Q44pPMvGEd)!
+Join our [Discord](https://discord.gg/Jj4uWy3DGP)!
 
 ## 💬 What Are These Discussions For?
 
